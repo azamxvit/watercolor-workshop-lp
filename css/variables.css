@@ -1,0 +1,17 @@
+:root {
+    --font-main: 'PT Sans', sans-serif;
+    --font-decor: 'Bernier Distressed', cursive; 
+    --color-orange: #F27947;
+    --color-text: #2c2c2c;
+    --color-blue: #5D8AA8;
+    --border-beige: #FFDAB9;
+}
+
+@font-face {
+    font-family: 'Bernier Distressed';
+    src: url('../assets/fonts/BernierDistressed-Regular.woff2') format('woff2'),
+         url('../assets/fonts/BERNIERDISTRESSED-Regular.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
