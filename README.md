@@ -25,7 +25,7 @@ This project is a pixel-perfect, responsive landing page designed for the exclus
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/your-username/spb-art-course-landing.git](https://github.com/your-username/spb-art-course-landing.git)
+    git clone [https://github.com/azamxvit/watercolor-workshop-lp.git](https://github.com/azamxvit/watercolor-workshop-lp.git)
     cd spb-art-course-landing
     ```
 
